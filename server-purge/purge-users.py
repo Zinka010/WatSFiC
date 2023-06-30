@@ -20,4 +20,4 @@ async def kicknorole(ctx: commands.Context):
             print(member.name)
     await ctx.reply('Done!')
 
-bot.run('Paste token here')
+bot.run('MTEyNDM4ODAzMzUzMDE3MTQyMg.G-y1wQ.ftm6wNkajLTWsAyT9h8mthp1XPL0bnbo9tqdTs')
