@@ -1,3 +1,5 @@
+# Obitained from https://stackoverflow.com/a/70909276
+
 import discord
 from discord.ext import commands
 from discord.ext.commands import has_permissions
@@ -20,4 +22,4 @@ async def kicknorole(ctx: commands.Context):
             print(member.name)
     await ctx.reply('Done!')
 
-bot.run('Paste token here')
+bot.run('Paste Token Here')
