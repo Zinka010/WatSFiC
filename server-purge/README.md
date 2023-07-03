@@ -16,6 +16,8 @@ A Python Discord Bot in order to purge all Discord server members with no roles
 
  - Enable all the Privileged Gateway Intents
 
+ - Generate a new Token and copy it
+
  - Open  `OAuth2` -> `URL Generator`
 
  - Select `bot`
@@ -31,6 +33,8 @@ A Python Discord Bot in order to purge all Discord server members with no roles
 #### Note: Depending on your configuration, you may need to use the pip and python commands intead
 
  - Open `server-purge/purge-users.py` in your favourite editor
+
+ - Paste your token to replace `Paste Token Here`
 
  - Open a terminal window in the `server-purge/` directory
 
